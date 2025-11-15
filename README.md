@@ -89,9 +89,9 @@ I believe in writing maintainable, efficient code and continuously learning new 
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [mhmdmahroos3622@gmail.com](mailto:mhmdmahroos3622@gmail.com)
-- 💼 **GitHub**: [github.com/mahroos03](https://github.com/mahroos03)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/mohamed-mahroos-1b3787293)
+- 📧 **Email**: [Mail Me](mailto:mhmdmahroos3622@gmail.com)
+- 💼 **GitHub**: [Check My Passion](https://github.com/mahroos03)
+- 💼 **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/mohamed-mahroos-1b3787293)
 
 ## 🔥 Current Focus
 
