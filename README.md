@@ -1,125 +1,144 @@
-# 👋 Hi, I'm Mohamed Mahroos
-
 <div align="center">
+
+# 👋 Hey, I'm Mohamed Mahroos
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+%7C+Cloud+Enthusiast;Java+%7C+Spring+Boot+Developer;Building+Scalable+Solutions"/>
 
 ### 🎓 NDT Information Technology Student
 
-### 💻 Full-Stack Developer • ☁️ DevOps Enthusiast • 🚀 Cloud Explorer
+### ☁️ DevOps • 💻 Full Stack • 🚀 Cloud Engineering
 
-Building scalable applications, secure systems, and modern web experiences.
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahroos03\&color=blueviolet\&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=mahroos03&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ✨ About Me
 
-* 🎓 Studying **National Diploma in Technology (NDT) – Information Technology**
-* 💻 Passionate about **Backend Engineering & Full-Stack Development**
-* ☁️ Exploring **Cloud Computing & DevOps**
-* 🔐 Interested in **Software Security & System Reliability**
-* 📚 Always learning and building
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
----
+🚀 Passionate about creating scalable and reliable applications.
 
-# 🛠️ Tech Stack
+💻 Focused on **Backend Development & System Architecture**
 
-## Backend
+☁️ Exploring **AWS • Cloud • DevOps • Automation**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+🔐 Interested in **Secure Systems & Performance Optimization**
+
+📚 Always learning and building practical projects
+
+🎯 Goal: Become a **Cloud & DevOps Engineer**
+
+<br><br>
 
 ---
 
-## Database
+# ⚡ Tech Universe
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+<div align="center">
 
----
+### Backend
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+### Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css"/>
 
-## DevOps & Tools
+### Database
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,figma"/>
+
+</div>
 
 ---
 
 # 🌟 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🛒 E-Commerce Platform
 
-Java • Spring Boot • React • MySQL • Docker
+Full-stack commerce application.
 
-Complete e-commerce solution with:
+✨ JWT Authentication
+✨ Shopping Cart
+✨ Product Management
+✨ Payment Integration
 
-* JWT Authentication
-* Product Management
-* Shopping Cart
-* Payment Integration
-* REST APIs
+**Stack**
+Java • Spring Boot • React • Docker
 
-🔗 https://github.com/mahroos03/ecommerce-platform
+🔗
+https://github.com/mahroos03/ecommerce-platform
 
----
+</td>
 
-## 🏥 Hospital Management System
+<td width="50%">
 
-Microservices-based healthcare management solution.
+## 🏥 Hospital Management
 
-Stack:
+Microservices healthcare platform.
 
-* Spring Boot
-* Spring Cloud
-* PostgreSQL
-* Eureka
-* Resilience4j
+✨ Appointments
+✨ Billing
+✨ API Gateway
+✨ Service Discovery
 
-🔗 https://github.com/mahroos03/hospital-management
+**Stack**
+Spring Boot • PostgreSQL
 
----
+🔗
+https://github.com/mahroos03/hospital-management
 
-## 🔐 Secure Authentication System
+</td>
 
-Features:
+</tr>
 
-* JWT
-* OAuth2
-* MFA
-* Redis
+<tr>
 
-🔗 https://github.com/mahroos03/secure-auth-system
+<td width="50%">
 
----
+## 🔐 Secure Auth System
 
-## 📅 Event Management System
+Authentication & authorization.
 
-Features:
+✨ JWT
+✨ OAuth2
+✨ MFA
+✨ Role Control
 
-* Real-time Notifications
-* WebSocket
-* Calendar Integration
+🔗
+https://github.com/mahroos03/secure-auth-system
 
-🔗 https://github.com/mahroos03/event-management
+</td>
+
+<td width="50%">
+
+## 📅 Event Management
+
+Real-time event ecosystem.
+
+✨ WebSocket
+✨ Calendar Sync
+✨ Notifications
+
+🔗
+https://github.com/mahroos03/event-management
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -127,23 +146,27 @@ Features:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahroos03&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahroos03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahroos03&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahroos03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=mahroos03&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahroos03&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mahroos03\&theme=tokyonight\&no-frame=true\&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=mahroos03&theme=tokyonight&no-frame=true&no-bg=true&row=1"/>
 
 </div>
 
@@ -151,40 +174,56 @@ Features:
 
 # 🔥 Current Focus
 
-* 🔭 Building Microservices Systems
-* 🌱 Learning Cloud Native Development
-* 🤝 Open Source Contributions
-* 💬 Spring Boot • APIs • System Design
+```yaml
+Currently:
+   Building: Spring Cloud Microservices
+   Learning: Cloud Native Architecture
+   Exploring: AWS + Docker + Kubernetes
+   Goal: Become DevOps & Cloud Engineer
+```
 
 ---
 
-# 💡 Development Philosophy
+# 💭 Developer Philosophy
 
-> "Great software is built not only for machines to execute but also for humans to understand."
+<div align="center">
+
+> "Code should be written for humans first and computers second."
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 📬 Connect With Me
 
-📧 Email
-[Mail Me](mailto:mhmdmahroos3622@gmail.com)
+<div align="center">
 
-💼 GitHub
-https://github.com/mahroos03
+<a href="mailto:mhmdmahroos3622@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 LinkedIn
-https://www.linkedin.com/in/mohamed-mahroos-1b3787293/
+<a href="https://github.com/mahroos03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-📷 Instagram
-https://www.instagram.com/loozer_looney
+<a href="https://www.linkedin.com/in/mohamed-mahroos-1b3787293/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-▶️ YouTube
-https://www.youtube.com/@lankanstech5383
+<a href="https://www.instagram.com/loozer_looney">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.youtube.com/@lankanstech5383">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+### ✨ Keep Building • Keep Growing • Keep Innovating ✨
 
 </div>
