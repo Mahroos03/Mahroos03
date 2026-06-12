@@ -4,9 +4,9 @@
 
 ### 🎓 NDT Information Technology Student
 
-### 💻 Full-Stack Developer | ☁️ DevOps Enthusiast | 🚀 Cloud Explorer
+### 💻 Full-Stack Developer • ☁️ DevOps Enthusiast • 🚀 Cloud Explorer
 
-Building scalable applications, secure systems, and modern web experiences with clean architecture and continuous learning.
+Building scalable applications, secure systems, and modern web experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahroos03\&color=blueviolet\&style=flat-square)
 
@@ -16,17 +16,17 @@ Building scalable applications, secure systems, and modern web experiences with 
 
 # 🚀 About Me
 
-* 🎓 Currently pursuing **National Diploma in Technology (NDT) — Information Technology**
+* 🎓 Studying **National Diploma in Technology (NDT) – Information Technology**
 * 💻 Passionate about **Backend Engineering & Full-Stack Development**
-* ☁️ Exploring **Cloud Computing, DevOps & System Design**
-* 🔐 Interested in **Secure and Reliable Software Systems**
-* 📚 Continuously learning and building practical solutions
+* ☁️ Exploring **Cloud Computing & DevOps**
+* 🔐 Interested in **Software Security & System Reliability**
+* 📚 Always learning and building
 
 ---
 
 # 🛠️ Tech Stack
 
-## Backend & APIs
+## Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
@@ -36,7 +36,7 @@ Building scalable applications, secure systems, and modern web experiences with 
 
 ---
 
-## Database & Storage
+## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -66,41 +66,58 @@ Building scalable applications, secure systems, and modern web experiences with 
 
 # 🌟 Featured Projects
 
-### 🛒 E-Commerce Platform
+## 🛒 E-Commerce Platform
 
-Full-stack commerce platform with authentication, product management, and payment workflow.
+Java • Spring Boot • React • MySQL • Docker
 
-**Stack:** Java • Spring Boot • React • Docker • MySQL
+Complete e-commerce solution with:
+
+* JWT Authentication
+* Product Management
+* Shopping Cart
+* Payment Integration
+* REST APIs
 
 🔗 https://github.com/mahroos03/ecommerce-platform
 
 ---
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
-Microservices-based healthcare solution with appointments and billing.
+Microservices-based healthcare management solution.
 
-**Stack:** Spring Boot • Microservices • PostgreSQL • Spring Cloud
+Stack:
+
+* Spring Boot
+* Spring Cloud
+* PostgreSQL
+* Eureka
+* Resilience4j
 
 🔗 https://github.com/mahroos03/hospital-management
 
 ---
 
-### 🔐 Secure Authentication System
+## 🔐 Secure Authentication System
 
-Authentication & authorization platform with OAuth2 and JWT.
+Features:
 
-**Stack:** Spring Security • Redis • OAuth2 • JWT
+* JWT
+* OAuth2
+* MFA
+* Redis
 
 🔗 https://github.com/mahroos03/secure-auth-system
 
 ---
 
-### 📅 Event Management System
+## 📅 Event Management System
 
-Real-time event scheduling platform with notifications.
+Features:
 
-**Stack:** Spring WebSocket • React • PostgreSQL
+* Real-time Notifications
+* WebSocket
+* Calendar Integration
 
 🔗 https://github.com/mahroos03/event-management
 
@@ -110,11 +127,13 @@ Real-time event scheduling platform with notifications.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahroos03\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahroos03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahroos03\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahroos03&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mahroos03\&theme=tokyonight\&hide_border=true)
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=mahroos03&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -124,7 +143,7 @@ Real-time event scheduling platform with notifications.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahroos03\&theme=tokyonight\&no-frame=true\&row=2\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mahroos03\&theme=tokyonight\&no-frame=true\&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,24 +151,23 @@ Real-time event scheduling platform with notifications.
 
 # 🔥 Current Focus
 
-* 🔭 Building scalable **Microservices Architecture**
-* 🌱 Learning **Cloud Native Development**
-* 🤝 Contributing to **Open Source**
-* 💬 Ask me about **Spring Boot, REST APIs, System Design**
-* ⚡ Improving **Performance & Reliability**
+* 🔭 Building Microservices Systems
+* 🌱 Learning Cloud Native Development
+* 🤝 Open Source Contributions
+* 💬 Spring Boot • APIs • System Design
 
 ---
 
 # 💡 Development Philosophy
 
-> *"Great software is built not only for machines to execute but also for humans to understand."*
+> "Great software is built not only for machines to execute but also for humans to understand."
 
 ---
 
 # 📫 Connect With Me
 
 📧 Email
-mailto:mhmdmahroos3622@gmail.com
+[Mail Me](mailto:mhmdmahroos3622@gmail.com)
 
 💼 GitHub
 https://github.com/mahroos03
